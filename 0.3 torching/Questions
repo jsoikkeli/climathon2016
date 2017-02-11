@@ -1,0 +1,9 @@
+
+1. What is the frequency of readings?
+   - I see only 76-78 sets of readings in each log file - is this right?
+2. The different log files relate to different sensor systems,
+   with CO, NO2, and MICS readings?
+
+
+Broken sensors:
+ - MICS sensors in ID 23 appear broken
